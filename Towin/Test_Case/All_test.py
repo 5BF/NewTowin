@@ -26,3 +26,4 @@ if __name__=='__main__':
     runner.run(suite)
     fp.close()
     print("测试GIT提交")
+    print("测试GIT提交2")
