@@ -1,0 +1,448 @@
+1511848217265	geckodriver	INFO	geckodriver 0.19.1
+1511848217290	geckodriver	INFO	Listening on 127.0.0.1:9450
+1511848219399	geckodriver	INFO	geckodriver 0.19.1
+1511848219414	geckodriver	INFO	Listening on 127.0.0.1:9457
+1511848248803	geckodriver	INFO	geckodriver 0.19.1
+1511848248813	geckodriver	INFO	Listening on 127.0.0.1:9468
+1511848250868	geckodriver	INFO	geckodriver 0.19.1
+1511848250893	geckodriver	INFO	Listening on 127.0.0.1:9475
+1511848650273	geckodriver	INFO	geckodriver 0.19.1
+1511848650288	geckodriver	INFO	Listening on 127.0.0.1:9600
+1511851945874	geckodriver	INFO	geckodriver 0.19.1
+1511851945894	geckodriver	INFO	Listening on 127.0.0.1:12959
+1511851947944	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.T5yXgXqsdDo2"
+1511851949022	Marionette	INFO	Enabled via --marionette
+[Child 13688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511851951319	Marionette	INFO	Listening on port 12965
+1511851951611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511851951722	Marionette	DEBUG	Register listener.js for window 4294967297
+1511851951869	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511851951962	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511851951962	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511851953440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511851955889	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Parent 14600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14844, Chrome_ChildThread1511852455349	Marionette	INFO	Enabled via --marionette
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511852457037	Marionette	INFO	Listening on port 13513
+1511852457374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511852457459	Marionette	DEBUG	Register listener.js for window 4294967297
+1511852457588	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511852457690	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511852457690	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511852459515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511852463054	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511852463102	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511852463276	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511852463279	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511852463482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511852463482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511852463646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511852464528	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+[Child 14532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511852486370	geckodriver	INFO	geckodriver 0.19.1
+1511852486385	geckodriver	INFO	Listening on 127.0.0.1:13670
+1511852488425	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.RMyBQNF8ltFm"
+1511852489064	Marionette	INFO	Enabled via --marionette
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511852490746	Marionette	INFO	Listening on port 13679
+1511852491612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511852491692	Marionette	DEBUG	Register listener.js for window 4294967297
+1511852491785	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511852491874	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511852491874	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511852493499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511852553813	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511852553867	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511852554059	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511852554062	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511852554253	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511852554254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511852554441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511852555476	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+[Child 13744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511859317576	geckodriver	INFO	geckodriver 0.19.1
+1511859317601	geckodriver	INFO	Listening on 127.0.0.1:26394
+1511859319651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yUvK4gtEJjsQ"
+1511859320638	Marionette	INFO	Enabled via --marionette
+[Child 14044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511859323398	Marionette	INFO	Listening on port 26404
+1511859323444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859323575	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859323787	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859323941	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859323941	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859326095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859375560	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859375626	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859375834	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859375842	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859376067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511859376069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511859376195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859390892	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859391088	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859391866	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859391870	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859392535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859421313	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Child 16344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14892, Chrome_ChildThr1511859598203	Marionette	INFO	Enabled via --marionette
+[Parent 9420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511859600251	Marionette	INFO	Listening on port 27032
+1511859600558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859600662	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859600822	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859600926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859600927	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859602506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859605624	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859605665	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859605853	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859605856	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859606043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511859606044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511859606214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859606953	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859607123	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859607890	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859607894	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859608569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859609187	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Child 14196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511859634266	geckodriver	INFO	geckodriver 0.19.1
+1511859634281	geckodriver	INFO	Listening on 127.0.0.1:27211
+1511859636336	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.UGcJpamnDef9"
+1511859636956	Marionette	INFO	Enabled via --marionette
+[Child 15408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511859638580	Marionette	INFO	Listening on port 27221
+1511859639481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859639571	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859639671	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859639770	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859639770	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859641490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859645213	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859645261	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859645442	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859645446	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859645649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511859645649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511859645811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859646556	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859646715	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859647481	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859647486	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859648146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859648745	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859648791	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859649039	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859649041	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859649665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859650317	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+[Child 15632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511859754267	geckodriver	INFO	geckodriver 0.19.1
+1511859754282	geckodriver	INFO	Listening on 127.0.0.1:27563
+1511859756337	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gc53pk8FMMbi"
+1511859756945	Marionette	INFO	Enabled via --marionette
+1511859758590	Marionette	INFO	Listening on port 27573
+1511859759479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859759550	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859759653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859759738	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859759738	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859761187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859764350	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859764409	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859764586	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859764588	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859764786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511859764786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511859764947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859765976	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859766135	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859766898	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859766900	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859767550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859768501	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859768556	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859768831	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859768835	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859769489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859770545	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Parent 13892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+11859778020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859781289	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Child 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511859924541	geckodriver	INFO	geckodriver 0.19.1
+1511859924551	geckodriver	INFO	Listening on 127.0.0.1:27902
+1511859926614	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.hWEa01yO8nZm"
+1511859927497	Marionette	INFO	Enabled via --marionette
+[Child 11672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511859929119	Marionette	INFO	Listening on port 27908
+1511859929742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859929814	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859929910	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859929998	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859929999	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859931778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859934917	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859934960	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859935157	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859935161	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859935357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511859935358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511859935528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859936922	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859937084	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859937845	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859937849	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511859938571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859941462	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859941535	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859941794	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859941799	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859942495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859945274	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Child 12968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+511859949690	Marionette	INFO	Listening on port 28039
+1511859950500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859950566	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859950663	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859950789	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859950789	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859952530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859955505	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511859955562	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511859955733	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511859955736	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511859955934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511859955935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511859956115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511859959294	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+[Child 14636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511859992888	geckodriver	INFO	geckodriver 0.19.1
+1511859992903	geckodriver	INFO	Listening on 127.0.0.1:28143
+1511859994928	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vcVZtRtzT18w"
+1511859995862	Marionette	INFO	Enabled via --marionette
+1511859997464	Marionette	INFO	Listening on port 28149
+1511859998051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511859998127	Marionette	DEBUG	Register listener.js for window 4294967297
+1511859998216	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511859998324	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511859998324	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511859999951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860003201	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511860003254	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511860003453	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511860003459	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511860003671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511860003672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511860003833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860004680	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860004837	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860005627	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860005631	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860006380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860007582	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511860007628	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511860007861	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511860007864	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511860008546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860010618	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Child 10156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+963	Marionette	DEBUG	Register listener.js for window 4294967297
+1511860016060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511860016172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511860016172	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511860017848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860020840	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511860020900	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511860021112	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511860021115	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511860021323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511860021323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511860021494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860024115	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860024447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 15020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511860045562	geckodriver	INFO	geckodriver 0.19.1
+1511860045577	geckodriver	INFO	Listening on 127.0.0.1:28400
+1511860047637	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GdwWnnnTjldb"
+1511860048507	Marionette	INFO	Enabled via --marionette
+[Parent 13376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511860050127	Marionette	INFO	Listening on port 28406
+1511860050847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511860050909	Marionette	DEBUG	Register listener.js for window 4294967297
+1511860051013	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511860051097	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511860051097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511860053291	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860055778	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511860055818	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511860056037	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511860056040	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511860056251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1511860056253	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511860056431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860058041	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860058213	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860058971	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860058973	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860059642	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860062435	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+1511860062505	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51towin.com/0755"
+1511860062741	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51towin.com/0755"
+1511860062745	Marionette	DEBUG	Received DOM event "unload" for "http://www.51towin.com/0755"
+1511860063403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/0755"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860065772	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/0755"
+[Parent 13376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x15008F,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/tab-content.js, line 316: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://browser/content/content.js, line 668: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: chrome://global/content/browser-child.js, line 125: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x15002B,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+indow-destroyed" for "4294967304"
+1511860076238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1511860076430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51towin.com/core/user.goToLogin.do"
+JavaScript warning: http://static.mediav.com/mv.js, line 1: unreachable code after return statement
+1511860079210	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51towin.com/core/user.goToLogin.do"
+1511860079540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 17060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
