@@ -21,3 +21,4 @@ if __name__=='__main__':
         description=("用例执行：")
     )
     runner.run(suite)
+print("aaaaaaaaaaaaaaaaaaaaaaaa")
